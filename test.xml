@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<templates>
+<clibs name="prozess">
+<add>Uhttps://https://raw.githubusercontent.com/doubleSlashde/stylingdrawio/main/Prozessdiagramm.xml</add>
+</clibs>
+<template section="Prozessdiagramm" 
+      url="https://raw.githubusercontent.com/doubleSlashde/stylingdrawio/main/Ablaufdiagramm.drawio"  
+      title="Prozesse" 
+      tags="prozessdiagramm;prozess"/>
+</templates>
