@@ -1,0 +1,87 @@
+{
+  "defaultFonts": [
+    "Helvetica"
+  ],
+  "presetColors": [
+    "00A5E1",
+    "EEF8FE",
+    "000000",
+    "C6C6C6",
+    "484848",
+    "EFEFEF",
+    "6D6D6D",
+    "F9F9F9",
+    "32547B",
+    "D7E9F4",
+    "B9D478",
+    "E3F2BF",
+    "FF9F00",
+    "FFE3B2",
+    "C63328",
+    "EDC2BF",
+    "8B593E",
+    "DBCCC4"
+  ],
+  "defaultColorSchemes": [],
+  "customColorSchemes": [
+    [
+      {
+        "fill": "#EEF8FE",
+        "title": "System"
+      },
+      {
+        "fill": "#EFEFEF",
+        "title": "Externer Usecase"
+      },
+      {
+        "fill": "#C6C6C6",
+        "title": "Grau"
+      },
+      {
+        "fill": "#D7E9F4",
+        "title": "Usecase"
+      },
+      {
+        "fill": "#D4E1F5",
+        "title": "Helles Blau"
+      },
+      {
+        "fill": "#00A5E1",
+        "title": "//-Blau"
+      },
+      {
+        "fill": "#6D6D6D",
+        "title": "Dunkelgrau"
+      },
+      {
+        "fill": "#000000",
+        "title": "Schwarz"
+      }
+    ]
+  ],
+  "styles": [
+    {
+      "commonStyle": {
+        "fontColor": "#000000",
+        "strokeColor": "#000000",
+        "fillColor": "#EEF8FE"
+      },
+      "edgeStyle": {
+        "strokeColor": "#6D6D6D",
+        "strokeWidth": 1.5
+      },
+      "vertexStyle": {
+        "strokeColor": "none"
+      }
+    },
+    {}
+  ],
+  "defaultEdgeStyle": {
+    "strokeColor": "#6D6D6D",
+    "strokeWidth": 1.5
+  },
+  "defaultVertexStyle": {
+    "strokeColor": "#6D6D6D",
+    "strokeWidth": 1.5
+  }
+}
