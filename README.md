@@ -1,2 +1,7 @@
-# stylingdrawio
-This repository contains the doubleSlash styling libraries used in draw.io. These XML files can be downloaded and used on the desktop client. For a more detailed guide, please refer to the Confluence page: https://confluence.doubleslash.de/confluence/pages/viewpage.action?pageId=293799866
+# Draw.io styles
+
+This repository contains the doubleSlash styling libraries used in draw.io. These json and XML files can be downloaded and used on the desktop client. 
+
+## Customization
+
+A guideline how to customize the configuration can be found in the [draw.io docs](https://www.drawio.com/doc/faq/configure-diagram-editor).
