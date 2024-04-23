@@ -1,13 +1,13 @@
 <mxlibrary>[
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Agent\" style=\"rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial Nova Light;fillColor=#EFEFEF;strokeColor=none;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Agent\" style=\"rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#EFEFEF;strokeColor=none;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 120,
     "h": 60,
     "aspect": "fixed",
     "title": "Agent"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Component\" style=\"rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial Nova Light;strokeColor=none;fillColor=#D7E9F4;strokeWidth=1.5;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Component\" style=\"rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;strokeColor=none;fillColor=#D7E9F4;strokeWidth=1.5;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 120,
     "h": 60,
     "aspect": "fixed",
@@ -35,14 +35,14 @@
     "title": "Relation"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;font style=&amp;quot;font-size: 16px;&amp;quot;&amp;gt;Systemcontext&amp;lt;/font&amp;gt;\" style=\"shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;strokeWidth=1;strokeColor=#00A5E1;fontColor=#333333;fillColor=none;rounded=1;fontSize=16;fontFamily=Arial Nova Light;arcSize=5;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"320\" height=\"280\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;font style=&amp;quot;font-size: 16px;&amp;quot;&amp;gt;Systemcontext&amp;lt;/font&amp;gt;\" style=\"shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;strokeWidth=1;strokeColor=#00A5E1;fontColor=#333333;fillColor=none;rounded=1;fontSize=16;fontFamily=Helvetica;arcSize=5;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"320\" height=\"280\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 320,
     "h": 280,
     "aspect": "fixed",
     "title": "System Context"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;font face=&amp;quot;Arial Nova Light&amp;quot; style=&amp;quot;font-size: 16px;&amp;quot;&amp;gt;Container&amp;lt;/font&amp;gt;\" style=\"shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;strokeWidth=1;strokeColor=none;fontColor=#333333;fillColor=#EEf8FE;rounded=1;arcSize=5;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"180\" height=\"210\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;font face=&amp;quot;Helvetica&amp;quot; style=&amp;quot;font-size: 16px;&amp;quot;&amp;gt;Container&amp;lt;/font&amp;gt;\" style=\"shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;strokeWidth=1;strokeColor=none;fontColor=#333333;fillColor=#EEf8FE;rounded=1;arcSize=5;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"180\" height=\"210\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 180,
     "h": 210,
     "aspect": "fixed",
