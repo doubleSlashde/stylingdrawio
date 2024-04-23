@@ -26,20 +26,23 @@
   "customColorSchemes": [
     [
       {
-        "fill": "#EEF8FE",
-        "title": "System"
+        "fill": "#D7E9F4",
+        "title": "Usecase",
+        "stroke": "none"
       },
       {
         "fill": "#EFEFEF",
-        "title": "Externer Usecase"
+        "title": "Externer Usecase",
+        "stroke": "none"
+      },
+      {
+        "fill": "#EEF8FE",
+        "title": "System",
+        "stroke": "none"
       },
       {
         "fill": "#C6C6C6",
         "title": "Grau"
-      },
-      {
-        "fill": "#D7E9F4",
-        "title": "Usecase"
       },
       {
         "fill": "#D4E1F5",
@@ -64,7 +67,7 @@
       "commonStyle": {
         "fontColor": "#000000",
         "strokeColor": "#000000",
-        "fillColor": "#EEF8FE"
+        "fillColor": "#D7E9F4"
       },
       "edgeStyle": {
         "strokeColor": "#6D6D6D",
