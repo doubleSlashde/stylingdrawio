@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="640" height="640" viewBox="0 0 640 640" xml:space="preserve">
+<desc>Created with Fabric.js 5.3.0</desc>
+<defs>
+</defs>
+<g transform="matrix(0.9986225899 0 0 0.9986225899 331.7850091896 327.5713239312)" id="5z5nRXE_gkCsfpUUqD51r"  >
+<path style="stroke: rgb(234,224,5); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,165,225); fill-rule: nonzero; opacity: 1;"  transform=" translate(0, 0)" d="M 0 -253.84615 C 140.12308 -253.84615 253.84615 -140.12306999999998 253.84615 0 C 253.84615 140.12308 140.12306999999998 253.84615 0 253.84615 C -140.12308 253.84615 -253.84615 140.12306999999998 -253.84615 0 C -253.84615 -140.12308 -140.12306999999998 -253.84615 0 -253.84615 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 329.6461295215 281.9459054104)" id="JtJV6iojKKSvkKkDb2o0W"  >
+<path style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  transform=" translate(0, 0)" d="M -161.77207 -43.713 L 161.77208 -43.713 L -0.09708000000000538 43.713010000000004 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 329.6461295215 334.5235754843)" id="WGpR5e7HU5E_eoj5BJJg2"  >
+<path style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  transform=" translate(0, 0)" d="M -162.27207 -82.65432 L 0 4.999089999999995 L 162.27207 -82.65432 L 162.27207 82.65432 L -162.27208 82.65432 z" stroke-linecap="round" />
+</g>
+</svg>
